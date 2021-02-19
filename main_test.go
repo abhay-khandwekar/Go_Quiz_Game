@@ -8,19 +8,19 @@ import (
 
 func TestShuffleProblems(t *testing.T) {
 	problems := []problem{
-		problem{
+		{
 			q: "q1",
 			a: "a1",
 		},
-		problem{
+		{
 			q: "q2",
 			a: "a2",
 		},
-		problem{
+		{
 			q: "q3",
 			a: "a3",
 		},
-		problem{
+		{
 			q: "q4",
 			a: "a4",
 		},
