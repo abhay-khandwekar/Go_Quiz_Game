@@ -1,7 +1,3 @@
-Solution to the CSV quiz problem at:
-
-https://courses.calhoun.io/lessons/les_goph_01
-
 SOLUTION INCLUDES:
 -----------------
 
